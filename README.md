@@ -37,4 +37,4 @@ and following all the steps,then done.
 This form is our modules and their use description.If "Used Languages" is "No",that mean it still not been written.  
 Module | Description | Used Languages
 :-:  | :-:  | :-:
-latex | This module is translation LaTex to CountingRod's commands. | No
+latex | This module can translate LaTex to CountingRod's commands. | No
