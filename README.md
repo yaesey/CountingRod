@@ -12,7 +12,7 @@ different languages can be exploited.
 *not yet* been written in a mix of Java and C++. So never mind why 
 there aren't two or more languages in the project.XD**
 
-#### Build and Use
+### Build and Use
 
 * **for common users**  
 WIP
@@ -20,7 +20,7 @@ WIP
 * **for developers**  
 run `./gradlew idea` or `./gradlew eclipse` to prepare workspace.
 
-#### Modules
+### Modules
 
 CountingRod is trying to keep lightweight,so it is few thing in 
 main library.In fact,CountingRod only has a tool to link modules 
@@ -34,7 +34,7 @@ If you are in gui,that great!Go to the file->Modules/Plugins->Import...
 and following all the steps,then done.
 
 **Our Module**  
-This form is our modules and their use description.  
-Module | Description | Used Languages("No" is meaning it still not been written)
+This form is our modules and their use description.If "Used Languages" is "No",that mean it still not been written.  
+Module | Description | Used Languages
 :-:  | :-:  | :-:
 latex | This module is translation LaTex to CountingRod's commands. | No
