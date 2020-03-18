@@ -1,4 +1,4 @@
-package CountingRod.command;
+package CountingRod.core.command;
 
 public abstract class CommandBase {
     private String commandName;

@@ -1,4 +1,4 @@
-package CountingRod;
+package CountingRod.core;
 
 /**
  * Accept command and launch gui
