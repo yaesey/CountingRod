@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yaesey/CountingRod.svg?branch=master)](https://travis-ci.org/yaesey/CountingRod)
 # CountingRod
 [English](./README.md)  
 CountingRod 是一个数学库，它允许客户使用LaTeX来进行运算，当然，它还能
