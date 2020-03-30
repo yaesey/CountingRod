@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yaesey/CountingRod.svg?branch=master)](https://travis-ci.org/yaesey/CountingRod)
 # CountingRod
 [简体中文](./README_CN.md)  
 CountingRod is a math lib which allows users to do calculations
