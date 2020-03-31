@@ -13,4 +13,8 @@ repositories {
 dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+    
+    // Use Log4j
+    implementation group: 'org.apache.logging.log4j' , name: 'log4j-api' , version: '2.13.1'
+    implementation group: 'org.apache.logging.log4j' , name: 'log4j-core', version: '2.13.1'
 }

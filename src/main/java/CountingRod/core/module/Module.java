@@ -1,13 +1,8 @@
 package CountingRod.core.module;
 
-import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.annotation.Target;
 import java.util.Locale;
 
-@Target(ElementType.TYPE)
-@Retention(RetentionPolicy.RUNTIME)
 public @interface Module {
     /**
      * Your module name
@@ -28,12 +23,5 @@ public @interface Module {
 
     String moduleID() default "";
 
-    String version() default "1.0";
-
-    @interface Loader {
-        String dependOn();
-        String loadAfter();
-
-        String loadFirst();
-    }
+    String version() default "";
 }
