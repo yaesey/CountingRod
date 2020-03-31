@@ -1,1 +1,4 @@
 rootProject.name = 'CountingRod'
+
+include 'lancher'
+include 'translater'
