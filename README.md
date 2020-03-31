@@ -3,14 +3,9 @@
 CountingRod is a math lib which allows users to do calculations
 by LaTeX,and...and it can do more!
 
-CountingRod is written by Java and C++,we are not joking! It is 
-modular in design to ensure that each module can be written in 
-a different language so that the features and benefits of 
-different languages can be exploited.
-
-**Warning:if you see this massage,that 's mean the project has 
-*not yet* been written in a mix of Java and C++. So never mind why 
-there aren't two or more languages in the project.XD**
+CountingRod is modular, allowing users to customize. For your 
+experience, we recommend that you install ALL modules in the 
+module list.
 
 ### Build and Use
 
@@ -37,4 +32,4 @@ and following all the steps,then done.
 This form is our modules and their use description.If "Used Languages" is "No",that mean it still not been written.  
 Module | Description | Used Languages
 :-:  | :-:  | :-:
-latex | This module can translate LaTex to CountingRod's commands. | No
+translater | This module can translate LaTex or others languages to CountingRod's commands. | No
